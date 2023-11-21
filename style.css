@@ -1,0 +1,52 @@
+html {
+    min-height:100%;
+    background-size:cover;
+}
+
+body {
+    min-height:100%;
+    background: linear-gradient(#333385, pink);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-size: cover;
+    
+}
+
+#hr1 {
+    border-style: 20px;
+    border-color:black;
+}
+
+div {
+    text-align: center;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(20 11 28 / 64%);
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    text-align: center;
+    padding: cover;
+    list-style-position: inside;
+}
+
+a {
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+footer {
+    padding-top: 20px;
+    padding-bottom: 60px;
+    text-align: center;
+}
